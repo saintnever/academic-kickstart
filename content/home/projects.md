@@ -3,9 +3,9 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "Projects"
+title = "Research Overview"
 subtitle = ""
 
 [content]
@@ -75,3 +75,10 @@ subtitle = ""
  css_class = ""
 +++
 
+I adopt a human-centered perspective to build sensing and interaction systems to bridge the digital and physical worlds. Bridging the two worlds requires pervasive interfaces so that physical and digital contents can interact with each other as user desired anytime anywhere. My previous work build such a pervasive interface from three aspects:
+<!-- 1) Interactive everyday objects for a natural and tangible experience; 2) Wearable input/output devices for a consistent and spontaneous experience; 3) Interconnection techniques for an immersive and seamless experience. Accordingly, my previous work falls into three categories -->
+1. __Sensing Tags__. I augment everyday objects with ultra-low-power, easy-to-use, and non-intrusive *wireless sensing tags*, which have low expense, deployment cost, and maintenance cost.
+2. __Finger Wearables__. I develop multi-purpose, power-efficient, and privacy-protective *finger wearables*, which can provide a rich, spontaneous, and consistent interaction experience. 
+3. __Interconnection Techniques__. I establish both *power and information links* among devices to redistribute the power, computational, and interactive resources, especially between today's powerful on-body devices and resource-limited off-body devices. 
+
+The three parts need to be jointly designed for a seamless integration. Together, they can enable a natural and efficient interaction experience. Please click the corresponding card for more details of my previous work. My research statement including future research plans can be found [here](#). 

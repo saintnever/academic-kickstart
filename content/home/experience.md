@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,27 +18,23 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "RF Engineer/Product Manager"
+  company = "Tomoon Technology"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  location = "Beijing, China"
+  date_start = "2015-07-01"
+  date_end = "2016-07-01"
+  description = """Design RF circuits and antenna for smart watches. 
+
+  Deploy and manage a city-scale Bluetooth tracking system for motorbikes."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Product Test Engineer"
+  company = "Silicon Labs"
+  company_url = "https://www.silabs.com/"
+  location = "Austin, Texas, USA"
+  date_start = "2013-05-02"
+  date_end = "2015-03-30"
+  description = """Develop test hardware and firmware for wireless MCU ICs."""
 
 +++
