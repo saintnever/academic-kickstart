@@ -31,19 +31,22 @@ url_video: ""
 slides: example
 ---
 
+Currently, most interaction interfaces are designed for powerful and independent computing devices, which adopts a device-centered design approach. A human-centered pervasive interface, however, requires seamless interconnection among devices for both energy and information sharing. For example, all involved devices should be notified of the user's intention to offer guidance, complete task, and provide feedback. 
+<!-- The power and information interconnections are the underlying infrastructure, on top of which interaction techniques can be implemented.   -->
+
 <figure>
   <img src="./touchpower.gif" width="100%" />
   <figcaption><i>Figure 1. TouchPower is an Interaction-based Power Transfer (IPT) technique. It transfers DC power through contact between electrodes on the glove and the object. </i></figcaption>
 </figure>
 
-To eliminate power maintenance demands, a power link can be established between on-body devices to off-body objects to transfer power. __TouchPower__ is an interaction-based power transfer technique that transfers on-body energy to off-body devices only during interaction. It is based on the observation that many devices do not need to be powered up when not used (e.g. computer mouse, remote controller). By adding conductive contacts on different parts of the hand, the power transfer can happen during the interaction without disrupting the original efforts. Other power transfer systems are also discussed.  
+ Power interconnection between few on-body wearables and many off-body objects can significantly reduce user maintenance efforts. I invented the concept of __Interaction-based Power Transfer (IPT)__, which transfers on-body energy to off-body devices leveraging the contact and close distance between user and object during interaction. IPT is especially suitable for devices that only need to be powered during interaction (e.g. mouse, remote controller). The concept was validated with a glove-based IPT prototype __TouchPower__ (Figure 1), which transfers DC power through contacts of electrodes on the glove and objects. With careful design of the transfer interface, energy can be distributed without affecting the original interaction. 
 
 <figure>
   <img src="./intro.png" />
   <figcaption><i>Figure 2. Tap-to-Pair enables wireless device association with minimal resource requirements. </i></figcaption>
 </figure>
 
-I also designed novel cross-device association techniques, which establish communication links between devices. __Tap-to-Pair__ provides a spontaneous device association experience by leveraging the wireless signal. To further understand the synchronous pairing method, we proposed a 2D design dimension and corresponding design spaces for the blinking patterns. We also demonstrated that such technique can work without visual blinking patterns when there are only few target devices. 
+It is challenging to establish information interconnection between resource-constrained IoT devices. __Tap-to-Pair__ provides a spontaneous device association experience based on temporal correlation of two signals. Users can tap the initiating device to induce periodic wireless signal strength changes, which is then correlated with the blinking patterns of target devices for association. In a follow up work, I proposed a 2D design space and design guidelines for blinking patterns by applying Bayesian models of user tapping behaviors. Such optimization enables the technique to support robust selection among more targets. 
 
 
 *Go to* [*Sensing Tags*](/project/sensing)  
