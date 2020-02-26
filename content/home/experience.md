@@ -18,6 +18,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Assistant Researcher"
+  company = "Institute of Computing Technology, Chinese Academy of Sciences"
+  company_url = ""
+  location = "Beijing, China"
+  date_start = "2019-07-01"
+  date_end = ""
+  description = """Conduct research on ultra-low-power sensors, smart wearables, and distributed interaction interfaces."""
+
+[[experience]]
   title = "RF Engineer/Product Manager"
   company = "Tomoon Technology"
   company_url = ""
@@ -26,7 +35,7 @@ date_format = "Jan 2006"
   date_end = "2016-07-01"
   description = """Design RF circuits and antenna for smart watches. 
 
-  Deploy and manage a city-scale Bluetooth tracking system for motorbikes."""
+  Deploy and manage Bluetooth tracker product for city-scale motorbikes tracking."""
 
 [[experience]]
   title = "Product Test Engineer"
