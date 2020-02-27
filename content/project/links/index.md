@@ -31,7 +31,7 @@ url_video: ""
 slides: example
 ---
 
-Currently, most interaction interfaces are designed for powerful and independent computing devices, which adopts a device-centered design approach. A human-centered pervasive interface, however, requires seamless interconnection among devices for both energy and information sharing. For example, all involved devices should be notified of the user's intention to offer guidance, complete task, and provide feedback. 
+Currently, most interaction interfaces are designed for powerful and independent computing devices, which adopts a device-centered design approach. A human-centered pervasive interface, however, requires seamless interconnection among devices for resource redistribution. By allocating energy, computation, and interaction resources based on needs, the design of the interfaces can be more flexible and thus truly be woven into the fabric of everyday life. 
 <!-- The power and information interconnections are the underlying infrastructure, on top of which interaction techniques can be implemented.   -->
 
 <figure>

@@ -32,7 +32,7 @@ url_video: ""
 slides: example
 ---
 
-Wearable devices are close and readily available to users, which can enable a spontaneous and consistent interaction experiences. Finger wearables can support a richer set of input gestures thanks to the dexterity of fingers. Also, they are usually the closet on-body devices to the interacting object, which makes them ideal candidates for resource sharing. However, finger wearables are challenging to design due to size constrains. The small size further limits the available computing, I/O, and power resources, which can impact interaction experience.  
+Wearable devices are close and readily available to users, which enables a spontaneous and consistent interaction experiences. Finger wearables can support a richer set of input gestures thanks to the dexterity of fingers. Also, they are usually the closet on-body devices to the interacting object, which makes them ideal candidates for resource sharing. However, finger wearables are challenging to design due to size constrains. The small size further limits the available computing, I/O, and power resources, which can impact interaction experience.
 
 <figure>
   <img src="./mring.png" />
