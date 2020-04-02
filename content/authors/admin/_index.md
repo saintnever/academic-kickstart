@@ -18,7 +18,7 @@ organizations:
   url: "http://english.ict.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I use my hardware and software skills to create interfaces between the physical and digital world. 
+bio: I use my hardware and software skills to build interfaces between the physical and digital world. 
 
 interests:
 - Human-computer Interaction
@@ -59,7 +59,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv_en.pdf
+  link: files/CV_EN_Tengxiang.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "ztxseuthu@gmail.com"

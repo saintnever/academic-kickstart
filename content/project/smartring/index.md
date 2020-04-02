@@ -39,7 +39,7 @@ Wearable devices are close and readily available to users, which enables a spont
   <figcaption><i>Figure 1. Users wrap the flexible ring band around the finger and align the magnetic connectors to wear the ring. I/O module are also connected with the main board and battery through the connectors. </i></figcaption>
 </figure>
 
-To overcome the resource constrains, I explored modular design for a smart ring (Figure 1). Instead of integrating various I/O functions into one piece of hardware, __ModularRing__ uses switchable I/O modules for interaction. The novel wearing design allows the I/O module to be separated from the wireless MCU and battery. Users can then switch the I/O module based on needs, and combine multiple rings with different I/O modules to create advanced interfaces. For example, a ring with a microphone module and a ring with a speaker module can work together as an audio interface. ModularRing won Finalist of 2018 Global Innovation Competition and is open sourced on [GitHub](https://github.com/saintnever/ModularRing). 
+To overcome the resource constrains, I explored modular design for a smart ring (Figure 1). Instead of integrating various I/O functions into one piece of hardware, __ModularRing__ uses switchable I/O modules for interaction. The novel wearing design allows the I/O module to be separated from the wireless MCU and battery. Users can then switch the I/O module based on needs, and combine multiple rings with different I/O modules to create advanced interfaces. For example, a ring with a microphone module and a ring with a speaker module can work together as an audio interface. ModularRing won Finalist of 2018 Global Innovation Competition and led to three patents. 
 
 <figure>
   <img src="./thermalring.png" />
