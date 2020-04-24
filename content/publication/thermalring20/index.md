@@ -40,8 +40,8 @@ featured: false
 #links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: 
-url_code: 
+url_pdf: '/publication/thermalring20/thermalring.pdf'
+url_code: 'https://github.com/saintnever/thermalring'
 url_dataset: ''
 url_poster: ''
 url_project: ''
