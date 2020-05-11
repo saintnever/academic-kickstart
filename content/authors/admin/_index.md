@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Researcher
+role: Assistant Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -70,7 +70,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Tengxiang Zhang is an assistant researcher at Institute of Computing Technology, Chinese Academy of Sciences, where he works at the Pervasive Computing Research Center. Dr. Zhang's research lines in the technical side of ubiquitous computing and human computer interaction. He builds human-centered sensing systems and interaction interfaces to merge the physical and digital worlds. He publishes on top-venues including [CHI](https://dl.acm.org/conference/chi) and [IMWUT](https://dl.acm.org/journal/imwut), and has been honored with two awards. His previous work falls into three categories: 1) Sensing Tags; 2) Finger Wearables; 3) Interconnection Techniques, which are summarized in [Research Overview](#projects). 
+Tengxiang Zhang is an Assistant Research Scientist at Institute of Computing Technology, Chinese Academy of Sciences, where he works at the Pervasive Computing Research Center. Dr. Zhang's research lines in the technical side of ubiquitous computing and human computer interaction. He builds human-centered sensing systems and interaction interfaces to merge the physical and digital worlds. He publishes on top-venues including [CHI](https://dl.acm.org/conference/chi) and [IMWUT](https://dl.acm.org/journal/imwut), and has been honored with two awards. His previous work falls into three categories: 1) Sensing Tags; 2) Finger Wearables; 3) Interconnection Techniques, which are summarized in [Research Overview](#projects). 
 
  <!-- focuses on Human-computer Interaction, Ubiquitous Computing, and Applied Machine Learning during his PhD at Tsinghua University, when he was advised by [Prof. Yuanchun Shi](https://pi.cs.tsinghua.edu.cn). He also has a deep understanding of electromagnetics advised by [Prof. Andrea Alu](http://www.alulab.org/) at UT Austin and [Prof. Tiejun Cui](https://scholar.google.com/citations?user=-h-1eJsAAAAJ&hl=en) at Southeast University. He has 10+ publications at top venues including SIGCHI and IMWUT. Please read the Research Interests section for a thorough overview of my research and previous work.  -->
 

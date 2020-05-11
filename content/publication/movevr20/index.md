@@ -14,7 +14,7 @@ authors:
 - Yuanchun Shi 
 
 date: "2020-04-20T00:00:00Z"
-doi: "http://dx.doi.org/10.1145/3313831.3376323"
+doi: "http://doi.org/10.1145/3313831.3376286"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -27,12 +27,12 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems*, Honolulu, USA, Apr 2020. 
-publication_short: In *CHI'20*. <font color="#953100"><b>(Accepted)</b></font><br/><font color="grey">MoveVR generates multiform force feedback for an immersive VR interaction experience by leveraging a household cleaning robot</font>
+publication_short: In *CHI'20*.<br/><font color="grey">MoveVR generates multiform force feedback for an immersive VR interaction experience by leveraging a household cleaning robot</font>
 
 abstract: Haptic feedback can significantly enhance the realism and immersiveness of virtual reality (VR) systems. In this paper, we propose MoveVR, a technique that enables realistic, multiform force feedback in VR leveraging commonplace cleaning robots. MoveVR can generate tension, resistance, impact and material rigidity force feedback with multiple levels of force intensity and directions. This is achieved by changing the robot's moving speed, rotation, position as well as the carried proxies. We demonstrated the feasibility and effectiveness of MoveVR through interactive VR gaming. In our quantitative and qualitative evaluation studies, participants found that MoveVR provides more realistic and enjoyable user experience when compared to commercially available haptic solutions such as vibrotactile haptic systems.
 
 # Summary. An optional shortened abstract.
-summary: MoveVR generates multiform force feedback for an immersive VR experience by leveraging a household cleaning robot. 
+summary: <font color="#953100"><b>CHI'20</b></font></br> MoveVR generates multiform force feedback for an immersive VR experience by leveraging a household cleaning robot. 
 
 tags:
 - VR
@@ -43,7 +43,7 @@ featured: false
 #links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: 
+url_pdf: '/publication/movevr20/movevr.pdf'
 url_code: 
 url_dataset: ''
 url_poster: ''

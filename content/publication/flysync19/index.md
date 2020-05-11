@@ -29,7 +29,7 @@ publication_short: <i>IMWUT</i>.<br/><font color="grey">This paper improves the 
 abstract: Temporal synchronous target selection is an association-free selection technique:users select a target by generating signals (e.g., finger taps and hand claps) in sync with its unique temporal pattern. However, classical pattern set design and input recognition algorithm of such techniques did not leverage users’ behavioral information, which limits their robustness to imprecise inputs. In this paper, we improve these two key components by modeling users’ interaction behavior. In the first user study, we asked users to tap a finger in sync with blinking patterns with various period and delay, and modeled their finger tapping ability using Gaussian distribution. Based on the results, we generated pattern sets for up to 22 targets that minimized the possibility of confusion due to imprecise inputs. In the second user study, we validated that the optimized pattern sets could reduce error rate from 23% to 7% for the classical Correlation recognizer. We also tested a novel Bayesian, which achieved higher selection accuracy than the Correlation recognizer when the input sequence is short. The informal evaluation results show that the selection technique can be effectively scaled to different modalities and sensing techniques.
 
 # Summary. An optional shortened abstract.
-summary: This paper improves the target selection performance by optimizing blinking pattern sets with Bayesian-based human modeling. 
+summary: <font color="#953100"><b>IMWUT 2019</b></font></br> This paper improves the target selection performance by optimizing blinking pattern sets with Bayesian-based human modeling. 
 
 tags:
 - interaction

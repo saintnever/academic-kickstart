@@ -81,4 +81,4 @@ I adopt a human-centered perspective to build sensing and interaction systems to
 2. __Finger Wearables__. I develop multi-purpose, power-efficient, and privacy-protective *finger wearables*, which can provide a rich, spontaneous, and consistent interaction experience. 
 3. __Interconnection Techniques__. I establish both *power and information links* among devices to redistribute the power, computational, and interactive resources, especially between today's powerful on-body devices and resource-limited off-body devices. 
 
-The three parts need to be jointly designed for a seamless integration. Together, they can enable a natural and efficient interaction experience. Please click the corresponding card for more details of my previous work. My research statement including future research plans can be found [here](files/research_statement_new.pdf). 
+Please click the corresponding card for more details of my previous work. My research statement including future research plans can be found [here](files/research_statement_new.pdf). 

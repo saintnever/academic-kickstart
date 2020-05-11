@@ -1,5 +1,5 @@
 ---
-title: Interconnection Techniques
+title: Interconnection
 summary: I develop power transfer and cross-device interaction techniques for interactive IoT devices.    
 #To realize pervasive interaction, I design interfaces that establish power and information links among distributed devices. 
 # tags:

@@ -27,7 +27,7 @@ publication_short: <i>IEEE Transactions on Antennas and Propagation</i>.<br/><fo
 abstract: —In this paper, we introduce a method to realize 3-D inhomogeneous and nearly isotropic gradient-index materials in the microwave regime. The unit cells of such gradient-index materials are drilled-hole dielectric structures, which can be easily fabricated by using the traditional printed circuit boards. To demonstrate the feasibility of the proposed method, we design and realize two functional devices in the microwave frequencies—a half-spherical Luneburg lens and a half Maxwell fisheye lens—based on 3-D gradient-index materials. The measurement results show that both devices have very good performance, which have good agreements to the numerical simulations, illustrating the great application potentials of the 3-D gradient-index materials.
 
 # Summary. An optional shortened abstract.
-summary: This paper uses drilled-hold dielectric structures as 3D inhomogeneous and nearly isotropic gradient-index materials. 
+summary: <font color="#953100"><b>IEEE Transactions on Antennas and Propagation 2013</b></font></br> This paper uses drilled-hole dielectric structures as gradient-index materials. 
 
 tags:
 - metamaterial

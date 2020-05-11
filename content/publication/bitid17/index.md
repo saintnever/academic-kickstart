@@ -26,7 +26,7 @@ publication_short: In *SMARTCOMP'17*. <font color="#953100"><b>(Best Paper Runne
 abstract: Radio-Frequency Identification (RFID) systems are becoming increasingly used within smart environments. In this paper, we propose BitID, a passive Ultra-High Frequency (UHF) RFID based sensing technique that can easily be made using off-the-shelf tags. BitID can be added to everyday objects to enable sensing and control capabilities. With a simple shorting mechanism, BitID is able to differentiate between two states of the object to which it is attached (for example, whether a door is open or closed). We explain the working principle of BitID, and demonstrate how to build and apply it to target objects. We also show that by using a three layered system architecture, BitID can be used for various applications, including event detection, energy monitoring, fitness tracking, human behavior tracking and control.
 
 # Summary. An optional shortened abstract.
-summary: <font color="#953100"><b>Best Paper Runner-up</b></font>   BitID adds sensing ability to everyday objects in a DIY, low-cost, and maintenance-free manner.
+summary: <font color="#953100"><b>SmartCom'17, Best Paper Runner-up</b></font></br>BitID adds sensing ability to everyday objects in a DIY, low-cost, and maintenance-free manner.
 
 tags:
 - ultra low-power

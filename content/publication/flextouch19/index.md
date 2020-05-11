@@ -30,7 +30,7 @@ publication_short: <i>IMWUT</i>.<br/><font color="grey">FlexTouch attach conduct
 abstract: In this paper, we present FlexTouch, a technique that enables large-scale interaction sensing beyond the spatial constraints of capacitive touchscreens using passive low-cost conductive materials. This is achieved by customizing 2D circuit-like patterns with an array of conductive strips that can be easily attached to the sensing nodes on the edge of the touchscreen. FlexTouch requires no hardware modification, and is compatible with various conductive materials (copper foil tape, silver nanoparticle ink, ITO frames, and carbon paint), as well as fabrication methods (cutting, coating, and ink-jet printing). Through a series of studies and illustrative examples, we demonstrate that FlexTouch can support long-range touch sensing for up to 4 meters and everyday object presence detection for up to 2 meters. Finally, we show the versatility and feasibility of FlexTouch through applications such as body posture recognition, human-object interaction as well as enhanced fitness training experiences.
 
 # Summary. An optional shortened abstract.
-summary: FlexTouch attach conductive strips to touchscreen edges for long-range touch sensing up to 4m and object presence detection up to 2m. 
+summary:  <font color="#953100"><b>IMWUT 2019</b></font></br> FlexTouch attach conductive strips to touchscreen edges for long-range touch sensing up to 4m and object detection up to 2m. 
 
 tags:
 - tag
