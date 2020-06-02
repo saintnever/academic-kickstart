@@ -53,6 +53,7 @@ subtitle = ""
 - Reviewer for 
   - SIGCHI'20
   - IMWUT/UbiComp'20
+  - UIST'20
   - MobileHCI'20
   - IUI'20
   - TEI'20

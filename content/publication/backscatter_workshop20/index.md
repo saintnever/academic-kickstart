@@ -18,12 +18,12 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Adjunct Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems*, Honolulu, USA, Apr 2020. 
-publication_short: In *Self-SustainableCHI'20 Workshop*.<br/><font color="grey">Design considerations of sustainable interaction interfaces with backscatter sensing techniques</font>
+publication_short: In *Self-SustainableCHI'20 Workshop*.<br/><font color="grey">Design considerations of sustainable interaction interfaces with backscatter sensing techniques.</font>
 
-abstract: Radio frequency (RF) backscatter is a remarkably efficient wireless communications technique, most commonly used for RF identiﬁcation (RFID). In recent years, systems that combine ultra low power sensors with backscatter circuitry have enabled batteryless wireless sensing and data collection. The low cost and low power requirements of such backscatter sensors have the potential to unlock a range of self-sustainable interactive applications and scenarios; several examples have already been reported in the literature. In this paper, we briefly review the operating principles of backscatter communications, and summarise some of the existing backscatter sensing systems. In order to better understand and compare different wireless sensor designs, we present a three-element architecture. We build on this to create a basic backscatter sensor taxonomy that allows us to present a simple design space. The gaps in this space indicate approaches where we have not yet uncovered in previous work, and may therefore be fruitful directions for future work.
+abstract: Radio frequency (RF) backscatter is a remarkably efficient wireless communications technique, most commonly used for RF identiﬁcation (RFID). In recent years, systems that combine ultra low power sensors with backscatter circuitry have enabled batteryless wireless sensing and data collection. The low cost and low power requirements of such backscatter sensors have the potential to unlock a range of self-sustainable interactive applications and scenarios; several examples have already been reported in the literature. In this paper, we briefly review the operating principles of backscatter communications, and summarise some of the existing backscatter sensing systems. In order to better understand and compare different wireless sensor designs, we present a three-element architecture. We build on this to create a basic backscatter sensor taxonomy that allows us to present a simple design space. The gaps in this space indicate approaches where we have not yet uncovered in previous work, and may therefore be fruitful directions for future work. 
 
 # Summary. An optional shortened abstract.
-summary:  <font color="#953100"><b>Self-SustainableCHI'20 Workshop</b></font> </br>Design considerations of sustainable interaction interfaces with backscatter sensing techniques.
+summary:  <font color="#953100"><b>Self-SustainableCHI'20 Workshop. On going effort.</b></font> </br>Design considerations of sustainable interaction interfaces with backscatter sensing techniques.
 
 tags:
 - ultra low-power
@@ -36,12 +36,12 @@ featured: false
 #links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: /publication/backscatter_workshop20/workshop.pdf
+url_pdf: publication/backscatter_workshop20/workshop.pdf
+url_slides: publication/backscatter_workshop20/workshop_slide_share.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
 url_source: ''
 url_video: ''
 
@@ -64,7 +64,7 @@ projects: [sensing]
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 <!-- {{% alert note %}}

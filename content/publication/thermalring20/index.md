@@ -45,7 +45,7 @@ url_code: 'https://github.com/saintnever/thermalring'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: '/publication/thermalring20/thermalring_ppt.pdf'
 url_source: ''
 url_video: 'https://youtu.be/hI4u9eptk9Y'
 
@@ -68,7 +68,7 @@ projects: ['smartring','sensing' ]
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 <!-- {{% alert note %}}
